@@ -282,3 +282,17 @@ body {
     color: white;
     text-decoration: none;
 }
+
+/*  Media queries */
+
+@media screen and (max-width: 575px) {
+    .header nav {
+      width: 25%;
+      flex-direction: column;
+    }
+
+    .footer nav {
+        width: 25%;
+        flex-direction: column;
+    }
+  }
