@@ -29,7 +29,9 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 https://www.w3schools.com/css/css_positioning.asp
 
-https://leannezhang.medium.com/difference-between-css-position-absolute-versus-relative-35f064384c6
+https://www.w3schools.com/howto/howto_css_image_text.asp
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
 
 https://discuss.codecademy.com/t/can-an-html-element-have-multiple-classes/358150
 
