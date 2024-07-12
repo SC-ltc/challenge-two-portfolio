@@ -6,7 +6,7 @@ The objective of this assignment was to make a professional portfolio from scrat
 
 ## Link to the deployed page
 
-https://sc-ltc.github.io/challenge-one-horiseon/
+https://sc-ltc.github.io/challenge-two-portfolio/
 
 ## Link to the repository for this project
 
